@@ -15,8 +15,8 @@ export default defineConfig({
   name: 'default',
   title: 'Course Platform',
 
-  projectId: '6h1mv88x',
-  dataset: 'production-v3',
+  projectId: '1noc9k42',
+  dataset: 'production',
 
   plugins: [
     deskTool({
